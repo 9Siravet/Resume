@@ -1,6 +1,6 @@
 # 🌐 **9Siravet.github.io**  
 
-![Profile Picture](Mypic/siravet.jpg)  
+![my pic](mypic/siravet.jpg)  
 
 ---
 
