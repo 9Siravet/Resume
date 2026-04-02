@@ -15,8 +15,7 @@
 ---
 
 ##  📃 **About Me**  
-A Computer Science student with practical experience in developing mobile applications using Flutter, including real-world projects such as a Safety Audit system with API integration and image upload features. Skilled in Python, JavaScript, and UI/UX design, with a strong willingness to learn and adapt in a professional environment. Seeking an opportunity to apply and further develop technical skills in software development.
-
+I am a student from Kasetsart University, Sriracha Campus, with a strong interest in IT support and software development. I have experience in troubleshooting hardware, software, and network systems, as well as developing mobile applications using Flutter and integrating REST APIs. I am a fast learner, detail-oriented, and able to work well both independently and as part of a team. I am eager to gain real-world experience and continuously improve my technical skills.
 
 ---
 ##  📚 **Project**  
