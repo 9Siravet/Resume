@@ -1,11 +1,116 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Siravet Portfolio</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Siravet Portfolio</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+}
+
+/* NAVBAR */
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding: 20px;
+  background: #020617;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* SECTION */
+section {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+/* HERO */
+.hero h1 {
+  font-size: 40px;
+}
+
+.hero p {
+  color: #94a3b8;
+}
+
+/* CARD */
+.card {
+  background: #1e293b;
+  padding: 20px;
+  margin: 15px;
+  border-radius: 12px;
+  display: inline-block;
+  width: 250px;
+}
+
+</style>
 </head>
+
 <body>
+
+<!-- NAV -->
+<nav>
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
   <h1>Siravet Nijinirundkul</h1>
-  <p>Frontend Developer (Flutter)</p>
-  <p>Welcome to my portfolio</p>
+  <p>Flutter Developer | Frontend Developer</p>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <h2>About Me</h2>
+  <p>
+    A Computer Science student with experience in Flutter and REST API development.
+  </p>
+</section>
+
+<!-- SKILLS -->
+<section id="skills">
+  <h2>Skills</h2>
+
+  <div class="card">Flutter</div>
+  <div class="card">Python</div>
+  <div class="card">JavaScript</div>
+  <div class="card">REST API</div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <h2>Projects</h2>
+
+  <div class="card">
+    <h3>Safety Audit App</h3>
+    <p>Flutter + API + Image Upload</p>
+  </div>
+
+  <div class="card">
+    <h3>To-do App</h3>
+    <p>Flutter + Firebase</p>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: your@email.com</p>
+  <p>GitHub: https://github.com/9Siravet</p>
+</section>
+
 </body>
 </html>
