@@ -25,6 +25,7 @@ A Computer Science student with practical experience in developing mobile applic
 - 🥇 [**A shop selling three types of drinks: coffee, tea, and soda**](https://drive.google.com/file/d/1hseb78s3K6AODQtRK1a8FqjY8a_8HtJl/view?usp=sharing)
 - 🥇 [**Figma**](https://www.figma.com/proto/5ZVK20ZuAwbfJFnPgUMjI1/Final-Project?node-id=1-2&starting-point-node-id=1%3A2)
 - 🥇 [**DFD**](https://drive.google.com/file/d/1rSUy7AbQbMo4NZM8R3oP5hc2bzOGZ6DG/view)
+- 🥇 [**Safety Audit**](https://drive.google.com/file/d/1xAY_cZB3sFIYudH-0nlNbHV4qXLvHvKO/view?usp=sharing)
 
 ---
 
