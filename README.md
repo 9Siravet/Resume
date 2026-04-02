@@ -26,6 +26,7 @@ A Computer Science student with practical experience in developing mobile applic
 - 🥇 [**Figma**](https://www.figma.com/proto/5ZVK20ZuAwbfJFnPgUMjI1/Final-Project?node-id=1-2&starting-point-node-id=1%3A2)
 - 🥇 [**Data Flow Diagram Project**](https://drive.google.com/file/d/1rSUy7AbQbMo4NZM8R3oP5hc2bzOGZ6DG/view)
 - 🥇 [**Safety Audit**](https://drive.google.com/file/d/1xAY_cZB3sFIYudH-0nlNbHV4qXLvHvKO/view?usp=sharing)
+- 🥇 [**Operation System and Database Vulnerability**](https://drive.google.com/file/d/17rv_vdFfhEHw0NkPIzQf_G7ZwC_xTRaX/view?usp=sharing)
 
 ---
 
