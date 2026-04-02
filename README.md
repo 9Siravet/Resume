@@ -1,4 +1,4 @@
-# 🌐 **9Siravet.github.io**  
+# 🌐 **9Siravet.github**  
 
 ![my pic](mypic/siravet.jpg)  
 
