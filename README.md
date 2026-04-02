@@ -15,7 +15,7 @@
 ---
 
 ##  📃 **About Me**  
-"A third-year Computer Science student from Kasetsart University, Sriracha Campus, with a keen interest in website and application development. Proficient in programming languages such as Python and JavaScript, as well as UX/UI design. Highly motivated to learn and enhance skills in a challenging work environment to prepare for a successful professional career in the future."
+A Computer Science student with practical experience in developing mobile applications using Flutter, including real-world projects such as a Safety Audit system with API integration and image upload features. Skilled in Python, JavaScript, and UI/UX design, with a strong willingness to learn and adapt in a professional environment. Seeking an opportunity to apply and further develop technical skills in software development.
 
 
 ---
