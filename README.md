@@ -17,15 +17,6 @@
 ##  📃 **About Me**  
 "A third-year Computer Science student from Kasetsart University, Sriracha Campus, with a keen interest in website and application development. Proficient in programming languages such as Python and JavaScript, as well as UX/UI design. Highly motivated to learn and enhance skills in a challenging work environment to prepare for a successful professional career in the future."
 
----
-
-## 🌟 **Works**  
-- 🔑 [**Null Cipher**](null-cipher)  
-- 🎄 [**E-Card (Christmas Edition)**](e-card_christmas)  
-- 📊 [**Completeness**](completeness)  
-- 🎲 [**Boardgame**](boardgame)
-- 🔒 [**Securitycontrol**](security-control)
-- 🔒 [**Securityrequirement**](security-requirement)
 
 ---
 ##  📚 **Project**  
